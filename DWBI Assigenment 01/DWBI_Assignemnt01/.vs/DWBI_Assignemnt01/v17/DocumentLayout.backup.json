@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|solutionrelative:DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|solutionrelative:DWBI_Assignemnt01\\Olist_Load_Staging.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9EF4B4B4-EC8F-EBB8-459F-07036CB17203}|DWBI_Assignemnt01\\DWBI_Assignemnt01.dtproj|solutionrelative:DWBI_Assignemnt01\\Olist_Load_DW.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Olist_Load_DW.dtsx [Design]",
+              "DocumentMoniker": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_DW.dtsx",
+              "RelativeDocumentMoniker": "DWBI_Assignemnt01\\Olist_Load_DW.dtsx",
+              "ToolTip": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_DW.dtsx [Design]",
+              "RelativeToolTip": "DWBI_Assignemnt01\\Olist_Load_DW.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-01T17:55:15.151Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Olist_Load_Staging.dtsx [Design]",
+              "DocumentMoniker": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_Staging.dtsx",
+              "RelativeDocumentMoniker": "DWBI_Assignemnt01\\Olist_Load_Staging.dtsx",
+              "ToolTip": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Olist_Load_Staging.dtsx [Design]",
+              "RelativeToolTip": "DWBI_Assignemnt01\\Olist_Load_Staging.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-30T22:14:37.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update_FactOrderDetails.dtsx [Design]",
+              "DocumentMoniker": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx",
+              "RelativeDocumentMoniker": "DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx",
+              "ToolTip": "D:\\DWBI Assigenment 01\\DWBI_Assignemnt01\\DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx [Design]",
+              "RelativeToolTip": "DWBI_Assignemnt01\\Update_FactOrderDetails.dtsx [Design]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFTSURBVDhPY2QAgqUbD/8H0bjAu49fGG7fvZ8\u002BqTFrFlQIAv7/h\u002BgDGfDv71\u002BcePKi7f9NPZP/59VPSwNrQAJMUJogaK0pZDh\u002B6uxMdEOINqC6pR9MgwwBM6CABUqDQcWCa1AWA0NHghac//k9G0NcZAiYvWj5GjANAxgu\u002BC2rAcYwAGJz6NkxZEe7QUVQAYYBrI9vgDEMwPhffkEFsAFCsfDp\u002B9//D98jYgOqDQwIBiLI5vc/GBjefP/PwMLGARVFABQDQIEGwyCArPnNdwaGf1iSG85ARNb8\u002BhsDwweQAb\u002BBAmgAZyAia371lYHh7MnrDI9/yzA4hhQwlM29/J/BeCbYPSjpABT3MJvf//jP8BZoK4j95TfE7SD5hy\u002B\u002BMFy5846hCyyCZMDUpbugLFxABq75zPU3UDGoAaDchp7C0AHI6TDNyAaAszNRAOpnFHA2nREAjMTvHMVXB8cAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-30T22:14:34.115Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
