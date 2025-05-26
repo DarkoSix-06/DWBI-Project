@@ -1,5 +1,8 @@
 # DWBI Project: Olist E-commerce Data Warehouse and BI Solution
 
+![dwbii](https://github.com/user-attachments/assets/c6920c2c-9a5a-49c2-9661-103de1c29804)
+
+
 ## 📌 Overview
 
 This project is a comprehensive Data Warehousing and Business Intelligence (DWBI) solution built for the **Olist E-commerce dataset**, simulating a real-world online retail system. It uses SQL Server, SSIS for ETL, SSAS for cube creation, and Power BI for analytical reporting.
