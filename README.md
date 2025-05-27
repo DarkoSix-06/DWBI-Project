@@ -63,7 +63,6 @@ This project is a comprehensive Data Warehousing and Business Intelligence (DWBI
 - Power BI
 - Microsoft Excel
 
----
 
 
 
